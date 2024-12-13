@@ -1,1 +1,2 @@
-# ArewaDS-Python-Exercise-
+# ArewaDS-Python-Exercise
+This is my ArewaDS_Fellowship project
