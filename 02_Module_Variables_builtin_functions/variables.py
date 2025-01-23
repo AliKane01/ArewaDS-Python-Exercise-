@@ -1,7 +1,7 @@
 # Day 2: 30 Days of python programming
 
 first_name = 'Aliyu'
-last_name = 'Kane'
+last_name = 'Kane' 
 full_name = 'Aliyu Kane'
 country = 'Nigeria'
 city = 'Sokoto'
@@ -31,10 +31,10 @@ are_of_circle = math.pi * 30 ** 2
 circum_of_circle = math.pi * 2 * 30
 r + input("radius of circle: ")
 area = math.pi * (int(r) ** 2)
-name = input('Enter your first name:')
-last_name = input('enter your last name:')
-country = input('Enter your country:')
-age = input('Enter your age:')
+name = input('Aliyu:')
+last_name = input('Kane:')
+country = input('Nigeria:')
+age = input('39:')
 
 print(area_of_circle)
 
