@@ -1,2 +1,2 @@
-# ArewaDS-Python-Exercise
-This is my ArewaDS_Fellowship project
+# ArewaDS-30 Days of Python-Exercise
+This is my ArewaDS_Fellowship Exercises
